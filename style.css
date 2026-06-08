@@ -1,13 +1,15 @@
-/* Website template by freewebsitetemplates.com */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 body {
-	background: url("images/bg-body-homee.jpg") no-repeat center center;
-	background-size: cover;
-	color: #00d6e0;	
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	margin: 0;
-	min-width: 940px;
-	padding: 0;
+    background: url("images/bg-body-homee.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
 }
 leftside back {
 }
