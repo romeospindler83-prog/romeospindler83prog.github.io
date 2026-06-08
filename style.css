@@ -1,7 +1,7 @@
 /* Website template by freewebsitetemplates.com */
 body {
-	background: url("../images/bg-body-homee.jpg") no-repeat;
-	background-size: 2600px;
+	background: url("images/bg-body-homee.jpg") no-repeat center center;
+	background-size: cover;
 	color: #00d6e0;	
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
