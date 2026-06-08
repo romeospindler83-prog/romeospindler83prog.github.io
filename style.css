@@ -351,16 +351,6 @@ p a:hover {
 #body div#content ul.section li div p {
 	padding: 23px 0 0;
 }
-#body div#content form {
-    background: url("images/interface.png") no-repeat center top;
-    background-size: 100% auto;
-    width: 540px;
-    height: 520px;
-    margin: 20px auto;
-    padding: 95px 65px 40px 85px;
-    position: relative;
-    box-sizing: border-box;
-}
 #body div#content form p {
     color: #ffffff;
     margin: 0 0 8px 0;
